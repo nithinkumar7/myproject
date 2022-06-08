@@ -5,4 +5,3 @@ I have deployed my project in the azure portal,which is given below
 
 The screenshots of the project is given below
 
-# ![image](https://user-images.githubusercontent.com/100057301/172535934-351dd1e6-aa68-4d72-9b48-18dd6c477449.png)
